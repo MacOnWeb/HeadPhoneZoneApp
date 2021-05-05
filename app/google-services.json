@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "465601949879",
+    "project_id": "headphone-zone-app",
+    "storage_bucket": "headphone-zone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465601949879:android:122300e506a7f0dd7b1d32",
+        "android_client_info": {
+          "package_name": "com.androidDev.headphonezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465601949879-1f5ua6j52gb794qf2ls0tmf4putgrtbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidDev.headphonezone",
+            "certificate_hash": "18acc039387b10257ff6121a51e644fff91c2f0a"
+          }
+        },
+        {
+          "client_id": "465601949879-2m0qv1puub4rgpd7inh4vcv8de92q5bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEKcKhxSVE18SrszaN2eGPixiTHGB9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465601949879-2m0qv1puub4rgpd7inh4vcv8de92q5bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465601949879:android:18eda378756e13067b1d32",
+        "android_client_info": {
+          "package_name": "com.vikrant.headphonezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465601949879-jldtnil6bfg6kt0j2agfq26ao4g117p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikrant.headphonezone",
+            "certificate_hash": "18acc039387b10257ff6121a51e644fff91c2f0a"
+          }
+        },
+        {
+          "client_id": "465601949879-2m0qv1puub4rgpd7inh4vcv8de92q5bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEKcKhxSVE18SrszaN2eGPixiTHGB9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465601949879-2m0qv1puub4rgpd7inh4vcv8de92q5bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
