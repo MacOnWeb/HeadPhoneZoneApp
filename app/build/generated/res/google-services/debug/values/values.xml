@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">465601949879-2m0qv1puub4rgpd7inh4vcv8de92q5bv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">465601949879</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAEKcKhxSVE18SrszaN2eGPixiTHGB9hE</string>
+    <string name="google_app_id" translatable="false">1:465601949879:android:122300e506a7f0dd7b1d32</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAEKcKhxSVE18SrszaN2eGPixiTHGB9hE</string>
+    <string name="google_storage_bucket" translatable="false">headphone-zone-app.appspot.com</string>
+    <string name="project_id" translatable="false">headphone-zone-app</string>
+</resources>
